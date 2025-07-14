@@ -20,7 +20,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:#77216F;
 }
 a:focus {
   outline: thin dotted;
@@ -76,8 +76,8 @@ q:after {
 }
 
 blockquote {
-  background-color: #F8F8F8;
-  border-left: 2px solid #AFC0D2;
+  /*background-color: #F8F8F8;*/
+  border-left: 2px solid #77216F;
   margin: 1.6em 10%;
   padding: .75em 1em;
   font-size:1.8rem;
@@ -129,7 +129,7 @@ ul.main-menu li a:hover {
 }
 ul.main-menu li a.active {
   color:#FFFFFF;
-  border-bottom-color:#EF6D3D;
+  border-bottom-color:#77216F;
 }
 
 /* Utility classes */
